@@ -77,6 +77,9 @@ export const metadata: Metadata = {
     creator: "@pdfmaster",
   },
 
+  verification: {
+    google: "bxg1GcOJtj4L4oyM-iuuDKCRja62P2G6rASTYsaSth8",
+  },
   manifest: "/manifest.json",
   icons: {
     icon: [
