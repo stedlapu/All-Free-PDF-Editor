@@ -76,9 +76,7 @@ export const metadata: Metadata = {
     images: ["/og-image.png"],
     creator: "@pdfmaster",
   },
-  alternates: {
-    canonical: siteUrl,
-  },
+
   manifest: "/manifest.json",
   icons: {
     icon: [

@@ -22,7 +22,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/merge-pdf',
     '/split-pdf',
     '/compress-pdf',
-    '/rotate-pdf',
     '/remove-pages',
     '/reorder-pages',
     '/add-watermark',
