@@ -21,8 +21,8 @@ const TOOLS_LINKS: FooterLink[] = [
 
 
 const LEGAL_LINKS: FooterLink[] = [
-  { label: "Privacy Policy", href: "/privacy" },
-  { label: "Terms of Service", href: "/terms" },
+  { label: "Privacy Policy", href: "/privacy-policy" },
+  { label: "Terms of Service", href: "/terms-of-service" },
 ];
 
 // ─── Sub-components ───────────────────────────────────────────────────────────

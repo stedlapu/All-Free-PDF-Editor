@@ -118,7 +118,7 @@ export function CookieConsent() {
         <p className="text-xs text-slate-500 dark:text-slate-400 mb-4">
           Learn more in our{" "}
           <Link
-            href="/privacy"
+            href="/privacy-policy"
             className="underline hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors focus:outline-none focus-visible:ring-1 focus-visible:ring-indigo-500 rounded"
           >
             Privacy Policy
